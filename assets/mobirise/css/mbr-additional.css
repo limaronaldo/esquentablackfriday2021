@@ -1082,12 +1082,31 @@ a {
   text-align: center;
   color: #121212;
 }
+.cid-sLXwQvrOmQ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #f9f9f9;
+}
+.cid-sLXwQvrOmQ .mbr-text,
+.cid-sLXwQvrOmQ .mbr-section-btn {
+  color: #000000;
+  text-align: center;
+}
+.cid-sLXwQvrOmQ .container {
+  max-width: 1000px;
+}
+.cid-sLXwQvrOmQ .mbr-section-title {
+  border-bottom: 1px solid currentColor;
+  color: #a6a6a6;
+  padding-bottom: 1rem;
+}
 #custom-html-0 {
   /* Type valid CSS here */
+  background-color: #000;
 }
 #custom-html-0 div {
   padding: 80px 0;
-  color: #000;
+  color: white;
   text-align: center;
 }
 #custom-html-0 p {
