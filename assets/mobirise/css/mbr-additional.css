@@ -1044,6 +1044,17 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-sMdvzzlYkj {
+  background-image: url("../../../assets/images/20-e-21-de-outubro-post-para-instagram-apresentao-1080x608.jpg");
+}
+.cid-sMdvzzlYkj .mbr-section-title {
+  text-align: center;
+}
+.cid-sMdvzzlYkj .mbr-text,
+.cid-sMdvzzlYkj .mbr-section-btn {
+  text-align: center;
+  color: #696969;
+}
 .cid-sHbRqqI9iV {
   background-color: #000000;
 }
@@ -1054,10 +1065,11 @@ a {
 .cid-sHbRqqI9iV .mbr-text2 {
   text-decoration: underline;
   text-align: center;
+  color: #000000;
 }
 .cid-sHbRqqI9iV .row-bg {
   align-items: center;
-  background: #e43f3f;
+  background: #3c479d;
   padding: 8rem 3rem;
   border-radius: 2rem;
   margin: 0;
@@ -1076,11 +1088,11 @@ a {
 .cid-sHbRqqI9iV .mbr-text,
 .cid-sHbRqqI9iV .mbr-section-btn {
   text-align: center;
-  color: #121212;
+  color: #ffffff;
 }
 .cid-sHbRqqI9iV .mbr-text3 {
   text-align: center;
-  color: #121212;
+  color: #000000;
 }
 .cid-sLXwQvrOmQ {
   padding-top: 5rem;
