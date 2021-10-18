@@ -1060,12 +1060,12 @@ a {
 }
 .cid-sHbRqqI9iV .mbr-section-title {
   text-align: center;
-  color: #121212;
+  color: #ffffff;
 }
 .cid-sHbRqqI9iV .mbr-text2 {
   text-decoration: underline;
   text-align: center;
-  color: #000000;
+  color: #ffffff;
 }
 .cid-sHbRqqI9iV .row-bg {
   align-items: center;
@@ -1092,25 +1092,7 @@ a {
 }
 .cid-sHbRqqI9iV .mbr-text3 {
   text-align: center;
-  color: #000000;
-}
-.cid-sLXwQvrOmQ {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #f9f9f9;
-}
-.cid-sLXwQvrOmQ .mbr-text,
-.cid-sLXwQvrOmQ .mbr-section-btn {
-  color: #000000;
-  text-align: center;
-}
-.cid-sLXwQvrOmQ .container {
-  max-width: 1000px;
-}
-.cid-sLXwQvrOmQ .mbr-section-title {
-  border-bottom: 1px solid currentColor;
-  color: #a6a6a6;
-  padding-bottom: 1rem;
+  color: #ffffff;
 }
 #custom-html-0 {
   /* Type valid CSS here */
@@ -1125,6 +1107,46 @@ a {
   text-align: center;
   font-size: 60px;
   margin-top: 0px;
+}
+.cid-sMdMwUS3vp {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  background-color: #000000;
+}
+.cid-sMdMwUS3vp .mbr-section-title {
+  text-align: center;
+  color: #121212;
+}
+.cid-sMdMwUS3vp .mbr-text2 {
+  text-decoration: underline;
+  text-align: center;
+}
+.cid-sMdMwUS3vp .row-bg {
+  align-items: center;
+  background: #a8d741;
+  padding: 8rem 3rem;
+  border-radius: 2rem;
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .cid-sMdMwUS3vp .row-bg {
+    padding: 1rem 0;
+    padding-top: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sMdMwUS3vp .image-wrapper {
+    padding: 1rem;
+  }
+}
+.cid-sMdMwUS3vp .mbr-text,
+.cid-sMdMwUS3vp .mbr-section-btn {
+  text-align: center;
+  color: #121212;
+}
+.cid-sMdMwUS3vp .mbr-text3 {
+  text-align: center;
+  color: #121212;
 }
 .cid-sHc05yi3jx {
   padding-top: 30px;
